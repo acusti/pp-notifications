@@ -1,0 +1,11 @@
+=== Prospress Notifications ===
+Contributors: acustica
+Author URI: http://www.purecobalt.com 
+Plugin URI: http://www.purecobalt.com/wp/prospress-notifications
+Tags: prospress, notifications, email
+Requires at least: 3.0
+Tested up to 3.1
+Stable tag: 0.4.0
+
+Enable and control email notifications for important events in Prospress
+
